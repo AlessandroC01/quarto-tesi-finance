@@ -1,0 +1,52 @@
+project:
+  type: book
+
+book:
+  title: "Telematics-Driven Claim Prediction: 
+  
+  A Comparative Analysis of Interpretable and Machine Learning Models"
+  author: "Alessandro Cervellera"
+  date: "Sys.Date()"
+  chapters:
+    - index.qmd
+    - TELEcomunication_and_inforMATIC.qmd
+    - Usage_Based_Auto_Insurance.qmd
+    - INTRO/Tehoretical_Background.qmd
+    - part: "Claim Frequency"
+      chapters: 
+        - Frequency_Modelling/Data_summary_freq.qmd
+        - Frequency_Modelling/Generalized_linear_models.qmd
+        - Frequency_Modelling/XGBoost_Extreme Gradient Boosting.qmd
+        - Frequency_Modelling/Frequency_results.qmd
+    - part: "Claim Severity"
+      chapters: 
+        - Severity_Modelling/Data_Summary_Severity.qmd
+        - Severity_Modelling/Generalized_linear_models_Severity.qmd
+        - Severity_Modelling/Extreme_Gradient_Boosting_Severity.qmd
+        - Severity_Modelling/Severity_Results.qmd
+    - part: "Aggregate Claim Amount"
+      chapters:
+      - Aggregate_Model/Aggregate_Model_For_Claims.qmd
+      - Aggregate_Model/Deterministic_Approach.qmd
+      - Aggregate_Model/Monte_Carlo_Simulation.qmd
+      - Aggregate_Model/Agg_Results.qmd
+    - part: "Discussion"
+      chapters:
+        - OUTRO/Discussion_tesi.qmd
+    
+    - part: "Appendix"
+      chapters: 
+        - INTRO/Proposal.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
