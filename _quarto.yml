@@ -50,3 +50,5 @@ format:
 
 editor: visual
 
+publish:
+    - github-pages
