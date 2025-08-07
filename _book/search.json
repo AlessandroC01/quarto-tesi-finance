@@ -8,5 +8,151 @@
     "crumbs": [
       "Preface"
     ]
+  },
+  {
+    "objectID": "INTRO/Telematic.html",
+    "href": "INTRO/Telematic.html",
+    "title": "1  TELEcomunication and inforMATIC",
+    "section": "",
+    "text": "1.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>TELEcomunication and inforMATIC</span>"
+    ]
+  },
+  {
+    "objectID": "INTRO/Telematic.html#running-code",
+    "href": "INTRO/Telematic.html#running-code",
+    "title": "1  TELEcomunication and inforMATIC",
+    "section": "1.2 Running Code",
+    "text": "1.2 Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>TELEcomunication and inforMATIC</span>"
+    ]
+  },
+  {
+    "objectID": "INTRO/Usage_Based_Insurance.html",
+    "href": "INTRO/Usage_Based_Insurance.html",
+    "title": "2  Usage-based Auto Insurance",
+    "section": "",
+    "text": "2.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Usage-based Auto Insurance</span>"
+    ]
+  },
+  {
+    "objectID": "INTRO/Usage_Based_Insurance.html#running-code",
+    "href": "INTRO/Usage_Based_Insurance.html#running-code",
+    "title": "2  Usage-based Auto Insurance",
+    "section": "2.2 Running Code",
+    "text": "2.2 Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Usage-based Auto Insurance</span>"
+    ]
+  },
+  {
+    "objectID": "Aggregate_Model/Deterministic_Approach.html",
+    "href": "Aggregate_Model/Deterministic_Approach.html",
+    "title": "13  Deterministic Approach",
+    "section": "",
+    "text": "13.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "Aggregate Claim Amount",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Deterministic Approach</span>"
+    ]
+  },
+  {
+    "objectID": "Aggregate_Model/Deterministic_Approach.html#running-code",
+    "href": "Aggregate_Model/Deterministic_Approach.html#running-code",
+    "title": "13  Deterministic Approach",
+    "section": "13.2 Running Code",
+    "text": "13.2 Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "Aggregate Claim Amount",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Deterministic Approach</span>"
+    ]
+  },
+  {
+    "objectID": "Aggregate_Model/Monte_Carlo_Simulation.html",
+    "href": "Aggregate_Model/Monte_Carlo_Simulation.html",
+    "title": "14  Monte Carlo Simulation",
+    "section": "",
+    "text": "14.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "Aggregate Claim Amount",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Monte Carlo Simulation</span>"
+    ]
+  },
+  {
+    "objectID": "Aggregate_Model/Monte_Carlo_Simulation.html#running-code",
+    "href": "Aggregate_Model/Monte_Carlo_Simulation.html#running-code",
+    "title": "14  Monte Carlo Simulation",
+    "section": "14.2 Running Code",
+    "text": "14.2 Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "Aggregate Claim Amount",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Monte Carlo Simulation</span>"
+    ]
+  },
+  {
+    "objectID": "Aggregate_Model/Agg_Results.html",
+    "href": "Aggregate_Model/Agg_Results.html",
+    "title": "15  Aggregate Results",
+    "section": "",
+    "text": "15.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "Aggregate Claim Amount",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Aggregate Results</span>"
+    ]
+  },
+  {
+    "objectID": "Aggregate_Model/Agg_Results.html#running-code",
+    "href": "Aggregate_Model/Agg_Results.html#running-code",
+    "title": "15  Aggregate Results",
+    "section": "15.2 Running Code",
+    "text": "15.2 Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "Aggregate Claim Amount",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Aggregate Results</span>"
+    ]
+  },
+  {
+    "objectID": "TELEcomunication_and_inforMATIC.qmd.html",
+    "href": "TELEcomunication_and_inforMATIC.qmd.html",
+    "title": "1  TELEcomunication and inforMATIC",
+    "section": "",
+    "text": "1.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>TELEcomunication and inforMATIC</span>"
+    ]
+  },
+  {
+    "objectID": "TELEcomunication_and_inforMATIC.qmd.html#running-code",
+    "href": "TELEcomunication_and_inforMATIC.qmd.html#running-code",
+    "title": "1  TELEcomunication and inforMATIC",
+    "section": "1.2 Running Code",
+    "text": "1.2 Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>TELEcomunication and inforMATIC</span>"
+    ]
+  },
+  {
+    "objectID": "Usage_based_Auto_Insurance.qmd.html",
+    "href": "Usage_based_Auto_Insurance.qmd.html",
+    "title": "2  Usage-based Auto Insurance",
+    "section": "",
+    "text": "2.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Usage-based Auto Insurance</span>"
+    ]
+  },
+  {
+    "objectID": "Usage_based_Auto_Insurance.qmd.html#running-code",
+    "href": "Usage_based_Auto_Insurance.qmd.html#running-code",
+    "title": "2  Usage-based Auto Insurance",
+    "section": "2.2 Running Code",
+    "text": "2.2 Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Usage-based Auto Insurance</span>"
+    ]
   }
 ]

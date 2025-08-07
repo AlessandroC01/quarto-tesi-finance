@@ -3,14 +3,13 @@ project:
 
 book:
   title: "Telematics-Driven Claim Prediction: 
-  
-  A Comparative Analysis of Interpretable and Machine Learning Models"
+   A Comparative Analysis of Interpretable and Machine Learning Models"
   author: "Alessandro Cervellera"
   date: "Sys.Date()"
   chapters:
     - index.qmd
-    - TELEcomunication_and_inforMATIC.qmd
-    - Usage_Based_Auto_Insurance.qmd
+    - TELEcomunication_and_inforMATIC.qmd.qmd
+    - Usage_based_Auto_Insurance.qmd.qmd
     - INTRO/Tehoretical_Background.qmd
     - part: "Claim Frequency"
       chapters: 
@@ -35,7 +34,8 @@ book:
         - OUTRO/Discussion_tesi.qmd
     
     - part: "Appendix"
-      chapters: 
+      chapters:
+        
         - INTRO/Proposal.qmd
 
 bibliography: references.bib
@@ -50,5 +50,5 @@ format:
 
 editor: visual
 
-publish:
-    - github-pages
+
+    
